@@ -136,11 +136,6 @@ Works with:
 - PSR-4 and WordPress-style class naming
 - Custom package autoloaders (via patchers)
 
-## Related Skills
-
-- `codesoup-options-setup` - Uses options package that benefits from scoping
-- `wordpress-plugin-boilerplate` - Plugin architecture this skill integrates with
-
 ## Contributing
 
 Issues and PRs welcome at [github.com/code-soup/vendor-scoping-wordpress-plugins](https://github.com/code-soup/vendor-scoping-wordpress-plugins)
