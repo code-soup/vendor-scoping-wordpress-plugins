@@ -20,10 +20,10 @@ This skill provides:
 
 ```bash
 # Install via skillshare (recommended)
-skillshare install bobz/vendor-scoping
+skillshare install code-soup/vendor-scoping-wordpress-plugins
 
 # Or clone directly to skills directory
-git clone https://github.com/bobz/vendor-scoping.git ~/.augment/skills/vendor-scoping
+git clone https://github.com/code-soup/vendor-scoping-wordpress-plugins.git ~/.augment/skills/vendor-scoping
 ```
 
 ### For Other AI Tools
@@ -32,13 +32,13 @@ Copy the skill directory to your AI tool's skills location:
 
 ```bash
 # Claude Desktop
-git clone https://github.com/bobz/vendor-scoping.git ~/Library/Application\ Support/Claude/skills/vendor-scoping
+git clone https://github.com/code-soup/vendor-scoping-wordpress-plugins.git ~/Library/Application\ Support/Claude/skills/vendor-scoping
 
 # Cursor
-git clone https://github.com/bobz/vendor-scoping.git ~/.cursor/skills/vendor-scoping
+git clone https://github.com/code-soup/vendor-scoping-wordpress-plugins.git ~/.cursor/skills/vendor-scoping
 
 # Windsurf
-git clone https://github.com/bobz/vendor-scoping.git ~/.windsurf/skills/vendor-scoping
+git clone https://github.com/code-soup/vendor-scoping-wordpress-plugins.git ~/.windsurf/skills/vendor-scoping
 ```
 
 See [agentskills.io](https://agentskills.io) for other tools.
@@ -143,7 +143,7 @@ Works with:
 
 ## Contributing
 
-Issues and PRs welcome at [github.com/bobz/vendor-scoping](https://github.com/bobz/vendor-scoping)
+Issues and PRs welcome at [github.com/code-soup/vendor-scoping-wordpress-plugins](https://github.com/code-soup/vendor-scoping-wordpress-plugins)
 
 ## License
 

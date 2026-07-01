@@ -42,9 +42,9 @@ See [references/composer-config.md](references/composer-config.md)
 ### 2. Copy Build Scripts
 
 ```bash
-cp agent-skills/vendor-scoping/scripts/scope.py build/
-cp agent-skills/vendor-scoping/scripts/scoper.inc.php build/
-cp agent-skills/vendor-scoping/scripts/check-scoping.php build/
+cp ~/.augment/skills/vendor-scoping/scripts/scope.py build/
+cp ~/.augment/skills/vendor-scoping/scripts/scoper.inc.php build/
+cp ~/.augment/skills/vendor-scoping/scripts/check-scoping.php build/
 chmod +x build/scope.py build/check-scoping.php
 ```
 
